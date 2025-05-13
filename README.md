@@ -1,1 +1,3 @@
 # StockMarketSimulator
+
+CMAKE / GCC ???
